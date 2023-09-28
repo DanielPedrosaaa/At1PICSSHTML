@@ -1,0 +1,21 @@
+
+*{
+    margin: 0;
+    padding: 0%;
+}
+
+.A{
+    width: 500px; height: 500px; background-color: rgb(255, 0, 0);
+}
+.B{
+    width: 50%; height: 50%; background-color: #010422;
+}
+.p1{
+    color: white; background-color: rgb(134, 19, 19); font-size: 25px; font-family: monospace; font-weight: bold;
+}
+.D{
+    width: 50%; height: 46vh; background-color: rgb(25, 255, 4)
+}
+.E{
+    width: 75vh ; height: 50%; background-color: rgb(231, 94, 94);
+}
